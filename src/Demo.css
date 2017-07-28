@@ -1,0 +1,13 @@
+.cs-demo {
+	background-color: red;
+	display: block-inline;
+	margin: 1rem;
+	padding: 1rem;
+}
+
+.cs-demo div {
+	background-color: blue;
+	color: white;
+	margin: 1rem;
+	padding: 1rem;
+}

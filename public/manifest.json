@@ -1,0 +1,15 @@
+{
+	"background_color": "#ffffff",
+	"display": "standalone",
+	"icons": [
+		{
+			"sizes": "192x192",
+			"src": "favicon.ico",
+			"type": "image/png"
+		}
+	],
+	"name": "React Comic Sans Components Demo",
+	"short_name": "Comic Sans Components",
+	"start_url": "./index.html",
+	"theme_color": "#000000"
+}
